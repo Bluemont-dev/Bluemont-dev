@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bluemont-dev
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning computer science basics via Harvard's CS50 online course, and also building a Node JS multiplayer card game using MongoDB, Socket.IO and hosted on Heroku.
-- 💞️ I’m looking to collaborate on anything that will grow my skills. I especially want to understand async/await/promise and error catching to prevent my app from crashing on the server.
+- 🌱 I have built a Node JS multiplayer card game using MongoDB, Socket.IO, hosted on Heroku. I also have built an online community using Python and SQLite.
+- 💞️ I’m looking for work -- full-time, part-time, contract or staff. I want to learn how work teams manage coding, testing, deployment and maintenance of their projects and products.
 - 📫 You can reach me at info@bluemontcommunications.com
 
 <!---
