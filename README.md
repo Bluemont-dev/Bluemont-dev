@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bluemont-dev
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in software QA and testing, with an eye toward eventually becoming a full stack web developer
 - 🌱 I have built a Node JS multiplayer card game using MongoDB, Socket.IO, hosted on Heroku. I also have built an online community using Python and PostgreSQL.
 - 💞️ I’m looking for work -- full-time, part-time, contract or staff. I want to contirbute to a team as I sharpen my skills in coding, testing, deployment and maintenance of projects and products.
 - 📫 You can reach me at info@bluemontcommunications.com
